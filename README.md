@@ -3,8 +3,7 @@
 This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the purpose of group management, with features like group tag (tagging group members), muting/unmuting, pairing other users, media conversion and many more exclusive features 🔥🔥. It's designed to assist group admins efficiently manage WhatsApp groups seamlessly 😁.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEV+•+ZIKKY+MD;Multi+Device+Whatsapp+Bot;Crafted+By+DEV+•+ZIKKY" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+DEV+•+ZIKKY" alt="Typing SVG" />
   </a> 
 </div> 
 
