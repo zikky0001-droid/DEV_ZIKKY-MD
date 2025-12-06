@@ -1,11 +1,12 @@
-# 🥂 DEV•ZIKKY MD
+# 🥂 DEV•ZIKKY MD 🔥 
 
 This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the purpose of group management, with features like group tag (tagging group members), muting/unmuting, pairing other users, media conversion and many more exclusive features 🔥🔥. It's designed to assist group admins efficiently manage WhatsApp groups seamlessly 😁.
 
-<div align="center"> 
-  <a href="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+DEV+•+ZIKKY" alt="Typing SVG" />
-  </a> 
-</div> 
+<!-- Glowing Header -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=DEV•ZIKKY-MD+%F0%9F%8C%9F;%F0%9F%94%A5+A+Unique+Simple+WHATSAPP+Bot;%F0%9F%92%BB+Crafted+by+DEV•ZIKKY%20%F0%9F%A5%82;%E2%9A%A1+Next-Generation+Compatible"alt="%22Typing%20Animation">
+</h1>
 
 <div align="center"> 
   <a href="https://youtube.com/@mr_unique_hacker"> 
