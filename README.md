@@ -4,7 +4,7 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEV•ZIKKY MD;Multi+Device+Whatsapp+Bot;Crafted+By+DEV+•+ZIKKY+✨+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEV•ZIKKY MD;Multi+Device+Whatsapp+Bot;Crafted+By+DEV+•+ZIKKY" alt="Typing SVG" />
   </a> 
 </div> 
 
