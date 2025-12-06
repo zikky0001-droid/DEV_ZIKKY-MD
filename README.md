@@ -92,15 +92,7 @@ For further customization and setup guidance, click the button below:
 - **Games** For example: Tic-Tac-Toe for interactive group engagement
 - **Text-to-Speech** with `.tts`
 - **Media creation and conversion** with `.sticker`
-- **Anti-link detection** for group safety
-
----
-
-## 📖 About
-
-A simple yet unique WhatsApp automation bot⚡⚡🥂🚀
-
- The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+- **Anti-link detection** for group safety `.antilink`
 
 ---
 
@@ -157,10 +149,4 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 **Note:** This bot is created for educational purposes only ⚠️⚠️. 🚫 This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned😢. Use it at your own risk.😈 The developers will not be responsible for any consequences or account bans that may occur while using this bot.
 
-## 📜 Copyright Notice
 
-Copyright (c) 2026 Professor. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
