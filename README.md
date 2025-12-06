@@ -15,8 +15,8 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/zikky0001-droid?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/zikky0001-droid/DEV_ZIKKY-MD?style=for-the-badge&label=Stars" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
