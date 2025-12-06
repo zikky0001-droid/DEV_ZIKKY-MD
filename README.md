@@ -4,7 +4,7 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEV•ZIKKY MD;Multi+Device+Whatsapp+Bot;Crafted+By+DEV+•+ZIKKY✨⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=DEV•ZIKKY MD;Multi+Device+Whatsapp+Bot;Crafted+By+DEV+•+ZIKKY+✨+⚡" alt="Typing SVG" />
   </a> 
 </div> 
 
@@ -17,8 +17,8 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 <div align="center">
   <img src="https://img.shields.io/github/followers/zikky0001-droid?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/zikky0001-droid/DEV_ZIKKY-MD?style=for-the-badge&label=Stars" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+  <img src="https://img.shields.io/github/forks/zikky0001-droid/DEV_ZIKKY-MD?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/zikky0001-droid/DEV_ZIKKY-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
 ---
