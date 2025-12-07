@@ -1,5 +1,5 @@
 /**
- * Knight Bot - A WhatsApp Bot
+ * DEV•ZIKKY Bot - A WhatsApp Bot
  * Autotyping Command - Shows fake typing status
  */
 
@@ -31,7 +31,7 @@ async function autotypingCommand(sock, chatId, message) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
+                        newsletterJid: '120363400099172810@newsletter',
                         newsletterName: 'DEV•ZIKKY MD',
                         serverMessageId: -1
                     }
@@ -62,8 +62,8 @@ async function autotypingCommand(sock, chatId, message) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '120363400099172810@newsletter',
+                            newsletterName: 'DEV•ZIKKY MD',
                             serverMessageId: -1
                         }
                     }
@@ -85,8 +85,8 @@ async function autotypingCommand(sock, chatId, message) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363400099172810@newsletter',
+                    newsletterName: 'DEV•ZIKKY MD',
                     serverMessageId: -1
                 }
             }
@@ -100,8 +100,8 @@ async function autotypingCommand(sock, chatId, message) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '120363400099172810@newsletter',
+                    newsletterName: 'DEV•ZIKKY MD',
                     serverMessageId: -1
                 }
             }
