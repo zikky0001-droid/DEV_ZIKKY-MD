@@ -219,7 +219,7 @@ async function startXeonBotInc() {
         if (!!global.phoneNumber) {
             phoneNumber = global.phoneNumber
         } else {
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFormat: 2348103476646 (without + or spaces) : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`💨Please type your WhatsApp number 💨\nFormat: 2348103476646 (without + or spaces) : `)))
         }
 
         // Clean the phone number - remove any non-digit characters
