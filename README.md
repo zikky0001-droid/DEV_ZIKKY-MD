@@ -22,7 +22,8 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 </div>
 
 ---
-
+## PLS NOTE THE FULL BOT FILES HAVE YET TO BE RELEASED 
+## FOR BOT FILES TO ENABLE DEPLOYMENT CONTACT THE OWNER
 ## 🚀 Steps to Deploy
 
 ### Step 1: Fork the Repository
@@ -42,7 +43,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
 <div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+  <a href="https://dev-zikky-pair.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
   </a>
 </div>
