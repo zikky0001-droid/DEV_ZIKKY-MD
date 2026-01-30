@@ -10,7 +10,7 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 
 <div align="center"> 
   <a href="https://youtube.com/@IsaacAchor"> 
-    <img src="https://github.com/zikky0001-droid/DEV_ZIKKY-MD/blob/main/plugins/bot_image.jpg" alt="DEV•ZIKKY BOT IMAGE" height="300"> 
+    <img src="https://github.com/zikky0001-droid/DEV_ZIKKY-MD/blob/main/media/bot_image.jpg" alt="DEV•ZIKKY BOT IMAGE" height="300"> 
   </a> 
 </div>
 
