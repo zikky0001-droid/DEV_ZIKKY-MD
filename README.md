@@ -9,8 +9,8 @@ This is a unique 🎖️ WhatsApp bot built by DEV•ZIKKY specifically for the 
 </h1>
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://github.com/zikky0001-droid/DEV_ZIKKY-MD/blob/main/plugins/bot_image.jpg" alt="DEV•ZIKKY Bot" height="300"> 
+  <a href="https://youtube.com/@IsaacAchor"> 
+    <img src="https://github.com/zikky0001-droid/DEV_ZIKKY-MD/blob/main/plugins/bot_image.jpg" alt="DEV•ZIKKY BOT IMAGE" height="300"> 
   </a> 
 </div>
 
